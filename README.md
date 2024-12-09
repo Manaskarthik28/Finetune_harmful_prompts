@@ -17,6 +17,8 @@ The dataset includes prompts in 133 different languages, with each prompt labele
 The fine-tuned model aims to efficiently classify and filter unsafe prompts, ensuring improved safety across diverse languages.
 
 For learning more about llama 3.1 8b please refer to this link: https://huggingface.co/meta-llama/Llama-3.1-8B
+
 For learning more about finetune using lora please refer to this link: https://arxiv.org/abs/2106.09685
+
 For dataset you can be find link here: https://huggingface.co/manas2804/manasfinetune/blob/main/new_merged_languages.csv
 
